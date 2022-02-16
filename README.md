@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">A passionate backend developer from Belarus</h3>
 
+
+- 🌱 I’m currently learning **Nest.js and Google Cloud Platform**
+
+- 📫 How to reach me **georgewoti@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/aqua_darida#7056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aqua_darida#7056" height="30" width="40" /></a>
